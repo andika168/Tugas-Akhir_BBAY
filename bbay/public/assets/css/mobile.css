@@ -1,0 +1,9 @@
+@media (max-width: 412px){
+    /* for samsung a32 test device */
+    .card-header{
+        margin-bottom: 0 !important;
+    }
+    .mt-5{
+        margin-top: 1rem !important;
+    }
+}
